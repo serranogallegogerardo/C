@@ -1,3 +1,5 @@
+#Ejecutar en https://replit.com/@AEDCDjango/consigna#main.c
+
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
